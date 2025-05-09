@@ -1,0 +1,14 @@
+[
+  {
+    "shortcut": "dd",
+    "description": "Delete a line"
+  },
+  {
+    "shortcut": "yy",
+    "description": "Yank (copy) a line"
+  },
+  {
+    "shortcut": "zz",
+    "description": "Save and quit"
+  }
+]
