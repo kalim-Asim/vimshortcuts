@@ -1,5 +1,5 @@
-# works locally on my system
-# Haven't published it
+
+Haven't published it yet
 
 # To use, run
 ```
@@ -9,6 +9,6 @@ npm link
 
 # cli commands
 ```
-vimshortcuts list
-vimshortcuts add zz "Save and quit"
+vimsh list
+vimsh add zz "Save and quit"
 ```
