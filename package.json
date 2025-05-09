@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "vimshortcuts": "./dist/index.js"
+    "vimsh": "./dist/index.js"
   },
   "scripts": {
     "build": "tsc",

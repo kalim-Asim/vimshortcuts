@@ -21,7 +21,7 @@ function saveShortcuts(shortcuts: Shortcut[]) {
 }
 
 program
-  .name("vimshortcuts")
+  .name("vimsh")
   .description("CLI to manage and view saved Vim shortcuts")
   .version("1.0.0");
 
