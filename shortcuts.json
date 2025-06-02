@@ -14,5 +14,21 @@
   {
     "shortcut": ":%y+",
     "description": "copy whole, paste outside"
+  },
+  {
+    "shortcut": "x X",
+    "description": "remove a character"
+  },
+  {
+    "shortcut": "y,p",
+    "description": "copy specific lines and paste in another file"
+  },
+  {
+    "shortcut": "shift+v+j",
+    "description": "yank lines"
+  },
+  {
+    "shortcut": ":[start],[end]d",
+    "description": "delete these line numbers"
   }
 ]
